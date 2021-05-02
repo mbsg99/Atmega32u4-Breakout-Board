@@ -1,4 +1,4 @@
-# Atmega32u4-Breakout-Board
+# Breakout Board for ATMEGA32u4 SMD IC
 Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
